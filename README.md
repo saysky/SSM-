@@ -1,23 +1,17 @@
-最新消息，博主已开通B站账号：[Java刘哥](https://space.bilibili.com/160340478)，欢迎关注，分享自己原创免费Java实战课程、各种框架实战和技巧、以及公司项目经验
+最新消息，博主已开通B站账号：[Java刘哥](https://space.bilibili.com/160340478)
 <hr/> 
+- 预览地址：[http://verio.liuyanzhao.com](http://verio.liuyanzhao.com)
+- 详细介绍：[https://liuyanzhao.com/shop/verio.html](https://liuyanzhao.com/shop/verio.html)
+
 ## 博主开发的其他租房或房屋交易项目全部在这里 <br/>
 ** [https://liuyanzhao.com/shop.html?k=房屋](https://liuyanzhao.com/shop.html?k=房屋) **   <br/>
+- [基于SpringBoot+Vue房屋租赁系统 租房 Verio的Vue版本](https://liuyanzhao.com/shop/verio-vue.html)
+- [基于SpringBoot的房屋租赁平台 房屋展示平台 留学生房屋租赁平台](https://liuyanzhao.com/shop/housekey.html)
+- [基于SpringBoot/SSM的最新最轻量级最漂亮的的二手房屋交易系统RentUP](https://liuyanzhao.com/shop/rentup.html)
+- [基于SpringBoot/SSM的房屋租赁系统租房系统Rello](https://liuyanzhao.com/shop/rello.html)
+- [基于SpringBoot/SSM房屋租赁系统 verio3.0/协同过滤，房屋合租系统 租房系统](https://liuyanzhao.com/shop/verio.html)
+- [基于SpringBoot房屋租赁系统manland4.0](https://liuyanzhao.com/shop/manland.html)
 
-本项目已有原创论文：[SpringBoot/SSM 房屋租赁系统毕业论文 原创 17000字](https://liuyanzhao.com/shop/rent-paper.html) 需要的联系博主<br/>
-
-感谢支持正版项目的朋友 <br/>
-- 最新消息，2022年4月23 verio迎来重大更新 [2022年4月最新基于SpringBoot/SSM的房屋租赁系统 Rello](https://github.com/saysky/rello-ssm) 
-
-- 最新消息 2022 最新租房系统地址：[2022 基于SpringBoot的房屋租赁平台 房屋展示平台 留学生房屋租赁平台](https://github.com/saysky/HouseKey)
-- 基于SSM+JSP+Bootstrap的房屋租赁系统，包含管理员、房东和租客三种角色。
-- 预览地址：[http://verio.liuyanzhao.com](http://verio.liuyanzhao.com)
-- 详细介绍地址：[https://liuyanzhao.com/shop/verio.html](https://liuyanzhao.com/shop/verio.html)
-
-- 最新消息(2021/04/02)，该项目包含2个版本，功能界面一模一样，只是改了框架结构
-    - SSM版本地址：[https://github.com/saysky/verio](https://github.com/saysky/verio)
-    - 同款SpringBoot版本地址：[https://github.com/saysky/verio-boot](https://github.com/saysky/verio-boot)
-    
-- 另一个租房系统地址：[SpringBoot 房屋租赁系统Manland3.0﻿](https://liuyanzhao.com/shop/manland.html)
 
 ## 一、获取代码
 - 需要完整代码联系博主，微信847064370
@@ -34,7 +28,7 @@
 - 最新消息，视频讲解已完成录制，并提交流程图、ER图，欢迎联系博主
 ![视频讲解](img/verio-vedio.png)
 
-##二、功能介绍
+## 二、功能介绍
 - 包括管理员、房东、租客三种角色，外加游客(未登录情况)
 - 出租类型包含整租和合租
 - 权限 游客 < 租客 < 房东 < 管理员
@@ -53,7 +47,7 @@
 - 反馈管理(提交反馈、反馈列表、删除反馈)
 - 收藏管理(收藏房子、收藏列表、取消收藏)
 - 个人信息修改、密码修改、联系房东(自动给房东发邮件)
-- 发布求租信息，发布留言 (2021年04月24日新增功能)
+- 发布求租信息，发布留言
 
 #### 3、房东功能
 
@@ -62,7 +56,7 @@
 - 发布出租(包括标题、描述、价格、各种配套信息、地图位置、轮播图等20多个字段信息)
 - 反馈管理(提交反馈、反馈列表、删除反馈)
 - 个人信息、密码修改
-- 发布求租信息，发布留言 (2021年04月24日新增功能)
+- 发布求租信息，发布留言
 
 #### 4、管理员功能
 - 用户管理(禁用用户、启用用户)
@@ -70,9 +64,6 @@
 - 订单管理(订单列表、退租、查看合同)
 - 反馈管理(反馈列表、删除反馈、处理反馈)
 - 新闻管理(新闻列表、发布新闻)
-
-
-
 
 
 ## 三、系统特色
@@ -91,12 +82,12 @@
 - 13、租客可以收藏自己喜欢的房子
 - 14、项目数据库表只有6张，很简单，不用怕复杂冗余的表
 - 15、定时任务，定时查询合同到期的订单，更新订单状态为已退租，更新房屋状态为可租
-
+- 16、报修、维修、账单、等等等...
 
 
 
 ## 四、技术组成
-- 1、Spring （前三个即SSM）
+- 1、Spring （前三个即SSM）（也有SpringBoot版本）
 - 2、SpringMVC
 - 3、MyBatis
 - 4、JSP
@@ -105,6 +96,7 @@
 
 ## 五、项目结构
 #### 1. 数据库设计
+（图片可能未更新，以演示站最新为准）
 - 良好的数据库设计规范，字段注释完整，有外键
 - 用户表
 ![用户表](img/t1.png)
@@ -126,11 +118,12 @@
 
 
 #### 2、代码结构
-项目结构是SSM+JSP，可以帮忙改造成springboot的
+项目结构是SSM+JSP，也有SpringBoot+JSP版本
 ![代码结构](img/code.png)
 
 
 ## 六、项目截图
+（图片可能未更新，以演示站最新为准）
 ![1-首页1.png](img/1-首页1.png)
 ![2-首页2.png](img/2-首页2.png)
 ![3-首页3.png](img/3-首页3.png)
@@ -167,12 +160,3 @@
 ![33-求租文章.png](img/33-求租文章.png)
 ![34-求租文章详情.png](img/34-求租文章详情.png)
 ![35-聊天](img/35-聊天.png)
-
-
-
-
-
-## 七、更新日志
-- 2022年8月 新写了篇论文
-- 2022年4月日 新增在线私信聊天功能
-- 2021年04月24日 新增求租文章模块，留言模块
