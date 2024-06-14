@@ -1,16 +1,18 @@
 最新消息，博主已开通B站账号：[Java刘哥](https://space.bilibili.com/160340478)
 <hr/> 
+
 - 预览地址：[http://verio.liuyanzhao.com](http://verio.liuyanzhao.com)
 - 详细介绍：[https://liuyanzhao.com/shop/verio.html](https://liuyanzhao.com/shop/verio.html)
 
 ## 博主开发的其他租房或房屋交易项目全部在这里 <br/>
-** [https://liuyanzhao.com/shop.html?k=房屋](https://liuyanzhao.com/shop.html?k=房屋) **   <br/>
+[https://liuyanzhao.com/shop.html?k=房屋](https://liuyanzhao.com/shop.html?k=房屋)
 - [基于SpringBoot+Vue房屋租赁系统 租房 Verio的Vue版本](https://liuyanzhao.com/shop/verio-vue.html)
 - [基于SpringBoot的房屋租赁平台 房屋展示平台 留学生房屋租赁平台](https://liuyanzhao.com/shop/housekey.html)
 - [基于SpringBoot/SSM的最新最轻量级最漂亮的的二手房屋交易系统RentUP](https://liuyanzhao.com/shop/rentup.html)
 - [基于SpringBoot/SSM的房屋租赁系统租房系统Rello](https://liuyanzhao.com/shop/rello.html)
 - [基于SpringBoot/SSM房屋租赁系统 verio3.0/协同过滤，房屋合租系统 租房系统](https://liuyanzhao.com/shop/verio.html)
 - [基于SpringBoot房屋租赁系统manland4.0](https://liuyanzhao.com/shop/manland.html)
+
 
 
 ## 一、获取代码
